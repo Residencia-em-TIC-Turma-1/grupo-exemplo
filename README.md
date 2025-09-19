@@ -20,5 +20,4 @@
 > * app - aplicativo mobile
 > * frontend - aplicação web
 > * backend - aplicação backend
->
 > Obrigatóriamente deve existir um README.MD em cada diretório criado.
